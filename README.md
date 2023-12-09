@@ -10,7 +10,7 @@ Spring Security Database Authentcation Example
 
 Swagger: http://localhost:8080/swagger
 
-## Login links
+## API Login
 
 http://localhost:8080/login
 
