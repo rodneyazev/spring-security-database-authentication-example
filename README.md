@@ -18,13 +18,12 @@ http://localhost:8080/login
 
 - Password: admin / test
 
-## Test
+<br>
 
-```bash
-# unit test
+<p align="center">
+  <img src="https://i.imgur.com/jvzU5gj.png" width="400" alt="Spring Security Database Authentication Image" />
+</p>
 
-$ mvn test -e
-```
 ## Source file / directory structure
 
 <p align="center">
