@@ -18,6 +18,10 @@ http://localhost:8080/login
 
 - Password: admin / test
 
+<p align="center">
+  <img src="https://i.imgur.com/jvzU5gj.png" width="400" alt="Spring Security Embedded LDAP Server Authentication Insomnia Image" />
+</p>
+
 ## Test
 
 ```bash
