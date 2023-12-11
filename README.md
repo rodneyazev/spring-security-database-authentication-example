@@ -29,3 +29,17 @@ http://localhost:8080/login
 <p align="center">
   <img src="https://i.imgur.com/8FWdGh2.png" width="400" alt="Spring Security Database Authentication Image" />
 </p>
+
+## Java Version Troubleshooting (if necessary)
+
+<em>Change to the most current version</em>
+
+<p align="center">
+  <img src="https://i.imgur.com/mpgdDa2.png" width="400" alt="Spring Security Database Authentication Image" />
+</p>
+
+<em>Uncheck <b>Enable project specific settings</b> option</em>
+
+<p align="center">
+  <img src="https://i.imgur.com/8FWdGh2.png" width="400" alt="Spring Security Database Authentication Image" />
+</p>
